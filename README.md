@@ -99,7 +99,7 @@ Projeto desenvolvido para demonstrar a integração entre Java e MySQL utilizand
 
 ## 📌 Autores
 
-João Pedro Nunes Neto
-Lucas Gabriel Pereira Guerra
-Luis Felipe Nunes da Fonseca Figueredo
-Luiz Phillipe de Souza Santos
+* João Pedro Nunes Neto
+* Lucas Gabriel Pereira Guerra
+* Luis Felipe Nunes da Fonseca Figueredo
+* Luiz Phillipe de Souza Santos
